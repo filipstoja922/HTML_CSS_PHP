@@ -1,0 +1,8 @@
+-Projekat je radjen uz pomoc XAMPP-a koji je simulirao local server. Pokrenuti XAMPP i u phpMyAdmin-u importovati bazu.
+-Folder "HTML_CSS_PHP" kopirati u htdocs folderu gde je instaliran XAMPP. (C:\xampp\htdocs)
+-U internet pretrazivacu ukucati link "http://localhost/HTML_CSS_PHP" kako bi pokrenuli projekat
+
+
+ZLogovanje za admina :
+Username : admin
+Password : admin
